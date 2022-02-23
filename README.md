@@ -1,3 +1,4 @@
+# SmartBridge Educational Services – Intern 
 # IOT-Project
 
 •	Created Face Recognition App using Raspberry Pi. 
